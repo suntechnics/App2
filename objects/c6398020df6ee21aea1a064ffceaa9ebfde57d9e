@@ -5,7 +5,8 @@
 	pull = squash never
 	ref = if refs/heads/main sync refs/heads/main
 	url = agnostic://ght/451929163
-[map "12338ec9-eedc-39d8-8440-9226432ccd80"]
+[map "3c672aea-1ce0-38ae-8e58-6fd5ad20cc2c"]
 	object = a71d04df1f46a0f8bfb709679b160dccc51f7e60
 	path = Lib2node
+	stage = sync
 	type = extract module

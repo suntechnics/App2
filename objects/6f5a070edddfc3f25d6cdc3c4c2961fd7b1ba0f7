@@ -1,0 +1,11 @@
+[module "62c1f7b2-81c4-330f-a2da-8337d2650185"]
+	conflict = request-pull
+	path = Lib2node
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/main
+	url = agnostic://ght/451929163
+[map "a5e334ad-1deb-307d-9b40-d5132d4af622"]
+	object = 7504d2620dff4bf4c9e240548a7d2a62b928b98b
+	path = Lib2node
+	type = extract module

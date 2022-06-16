@@ -5,3 +5,5 @@
 	object = abcf3a38d4ba56709c0a7c6e54bbddaca2cd4505
 	path = Lib2node
 	type = expand module
+[object]
+	state = initial

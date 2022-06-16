@@ -1,0 +1,7 @@
+[map "344e5a59-fe6c-3468-b487-a2f7a53e0f64"]
+	object = 6f5a070edddfc3f25d6cdc3c4c2961fd7b1ba0f7
+	path = Lib2node
+	type = expand module
+[map "eb7fef79-8097-3ab8-af1b-e40a0eab0c07"]
+	object = e86cb0099429c9f44c9801d1444f1ce989a0d62f
+	type = include + expand tree
